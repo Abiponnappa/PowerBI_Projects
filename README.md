@@ -1,2 +1,11 @@
-This project aims to analyze and predict the churn rate of bank customers using data analytics and machine learning techniques.
-Customer churn refers to the percentage of customers who stop using a company's services during a given period. By identifying factors that influence churn, banks can improve customer retention and develop targeted strategies.
+BlinkIt (Indian App) – Sales & Operations Dashboard
+Analyzed order trends, delivery efficiency, and category performance to support operational decisions.
+
+Hotel Management – Hospitality Performance Dashboard
+Visualized occupancy rates, revenue metrics, and guest satisfaction to improve hotel operations.
+
+Customer Churn Study – Retention Analysis Dashboard
+Identified churn patterns, high-risk segments, and retention opportunities using customer data.
+
+Climate Change – Environmental Impact Dashboard
+Tracked global climate indicators like temperature, CO₂, and sea level to highlight environmental trends.
